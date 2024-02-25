@@ -23,6 +23,11 @@
   나. 섹션2
     - 슬라이드 이미지 적용
     - 좌, 우 화살표를 통해 이미지를 넘길 수 있도록 적용
+  다. 이미지 강조를 위해 border 그라데이션 추가
+```css 
+  border-right: 4px solid;
+  border-image: linear-gradient(to bottom, #eaeaa7, #ffcdf3aa, #c1b0e6)1;
+```
 
 - 푸터
   가. 로고(grayscail적용)
