@@ -37,5 +37,5 @@
 
 3. 배포 주소
 
-닷홈 :
-깃허브 : 
+닷홈 : http://relivha.dothome.co.kr/steamweb/
+깃허브 : https://hahan-lee.github.io/steam/#
