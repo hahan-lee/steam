@@ -1,0 +1,69 @@
+@charset "utf-8";
+
+* {
+  margin: 0;
+  padding: 0;
+  vertical-align: middle;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+html {
+  overflow-y: scroll;
+}
+
+body {
+  font: normal 14px/1 "맑은 고딕" "arial";
+  color: #ccc;
+  background: #fff;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 14px;
+  font-weight: normal;
+}
+
+a {
+  color: #777777;
+  text-decoration: none;
+}
+
+em,
+i,
+address {
+  font-style: normal;
+}
+
+header,
+main,
+footer,
+section,
+nav,
+aside {
+  display: block;
+}
+
+.blind {
+  display: block;
+  text-indent: -2000px;
+  overflow: hidden;
+}
+
+.hide {
+  display: none
+}
