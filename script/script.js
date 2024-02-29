@@ -73,7 +73,7 @@
         setInterval(nextCount, 6000);
       }
 
-      // autoTimer();
+      autoTimer();
 
       $(".left-arrow").on({
         click() {
